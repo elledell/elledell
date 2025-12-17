@@ -20,7 +20,7 @@
 * 🌱 I’m currently exploring **Microservices & Cloud Architecture**.
 * 🧩 My philosophy: **"Building scalable solutions where future meets execution."**
 * 💻 Most used line of code: `git commit -m "fixed critical bug"`
-  
+    
   
 
 ---
@@ -41,5 +41,4 @@
   </a>
   <a href="mailto:hellenmochama7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+  
